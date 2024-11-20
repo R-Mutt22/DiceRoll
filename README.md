@@ -1,7 +1,5 @@
 # Dice Roller
 
-![Dice Roller]([https://your-image-link-here.com](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app/img/3e9a9f44c6c84634_1440.png?hl=es-419))
-
 ## Descripción
 
 Dice Roller es una aplicación simple que simula el lanzamiento de un dado. Esta aplicación está diseñada para demostrar el uso de funciones componibles en Jetpack Compose.
@@ -11,10 +9,6 @@ Dice Roller es una aplicación simple que simula el lanzamiento de un dado. Esta
 - Lanza un dado virtual y muestra el resultado.
 - Interfaz de usuario intuitiva y fácil de usar.
 - Utiliza Jetpack Compose para la interfaz de usuario.
-
-## Capturas de Pantalla
-
-![Screenshot 1]([https://your-screenshot-link-here.com](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-build-a-dice-roller-app/img/3e9a9f44c6c84634_1440.png?hl=es-419))
 
 ## Instalación
 
@@ -40,7 +34,7 @@ Dice Roller es una aplicación simple que simula el lanzamiento de un dado. Esta
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi-email@](matiaszelarayandev@gmail.com).
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
 ---
 
